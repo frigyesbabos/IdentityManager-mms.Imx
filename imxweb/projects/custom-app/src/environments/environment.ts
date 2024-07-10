@@ -30,7 +30,7 @@
 
 export const environment = {
   production: false,
-  clientUrl: 'http://localhost:8182',
+  clientUrl: 'https://q4deumsy22q/ApiServer',
   appName: 'custom-app',
   appVersion: '1.0.0'
 };
